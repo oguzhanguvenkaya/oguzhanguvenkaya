@@ -1,8 +1,8 @@
 # oguzhanguvenkaya
 <h1 align="center">Hi 👋, I'm Oğuzhan Güvenkaya</h1>
-- 🌱 I’m currently learning **Python,Machine Learning**
+🌱 I’m currently learning **Python,Machine Learning**
 
-- 📫 How to reach me **guvenkayaoguz@gmail.com**
+📫 How to reach me **guvenkayaoguz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
