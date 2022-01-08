@@ -6,10 +6,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/oguzhan-güvenkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/oguzhan-güvenkaya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/oguzhan guvenkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="oguzhan guvenkaya" height="30" width="40" /></a>
-<a href="https://kaggle.com/oguzhan guvenkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="oguzhan guvenkaya" height="30" width="40" /></a>
-<a href="https://medium.com/oguzhan guvenkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="oguzhan guvenkaya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oguzhan-güvenkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/oguzhan-güvenkaya" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/oguzhanguvenkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="oguzhanguvenkaya" height="30" width="40" /></a>
+<a href="https://kaggle.com/oguzhanguvenkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="oguzhan guvenkaya" height="30" width="40" /></a>
+<a href="https://medium.com/oguzhanguvenkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="oguzhanguvenkaya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
